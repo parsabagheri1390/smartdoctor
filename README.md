@@ -23,10 +23,10 @@ A machine learning-based system that predicts the risk of various diseases (like
 run the streamlit app:
 streamlit run app app.py
 
-Important Note:
+## Important Note:
 This project is for educational purposes only. 
 It is not a substitute for professional medical advice.
 
-About the Developer:
+## About the Developer:
 Parsa Bagheri, a 14-year-old Python developer and ML 
 enthusiast from Iran. Future web developer and ml engineer!
