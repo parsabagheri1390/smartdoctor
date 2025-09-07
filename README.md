@@ -31,3 +31,4 @@ It is not a substitute for professional medical advice.
 Parsa Bagheri, a 14-year-old Python developer and ML 
 enthusiast from Iran. Future web developer and ml engineer!
 
+![Demo of Medical AI Assistant](https://github.com/YourUsername/YourRepoName/blob/main/assets/medical-ai-demo.gif)
