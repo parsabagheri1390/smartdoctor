@@ -30,3 +30,6 @@ It is not a substitute for professional medical advice.
 ## About the Developer:
 Parsa Bagheri, a 14-year-old Python developer and ML 
 enthusiast from Iran. Future web developer and ml engineer!
+
+## ![Demo of Medical AI Assistant]:
+(smartdoctor_Animation.gif at main · parsabagheri1390_smartdoctor.html.git)
