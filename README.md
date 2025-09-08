@@ -4,6 +4,8 @@ My Al Doctor Project
 
 A machine learning-based system that predicts the risk of various diseases (like diabetes, heart conditions, etc.) based on user's health metrics and provides simple recommendations.
 
+## explanation :
+This project is a smart doctor that tells you whether you have that disease or not, based on the data you give it. The diseases in this project are like diabetes, heart disease, heart failure, high blood pressure, and depression.
 ## Features
 - Disease Prediction: Uses ML models to predict diabetes, heart disease, hypertension, and more.
 - Health Recommendations: Provides basic advice based on the prediction results.
