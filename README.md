@@ -32,6 +32,6 @@ It is not a substitute for professional medical advice.
 ## About the Developer:
 Parsa Bagheri, a 14-year-old Python developer and ML 
 enthusiast from Iran. Future web developer and ml engineer!
-[!Show program performance]([(https://github.com/parsabagheri1390/smartdoctor/blob/main/Animation.gif]))()
+[!Show program performance]([(https://github.com/parsabagheri1390/smartdoctor/blob/main/Animation.gif)])()
 
 
