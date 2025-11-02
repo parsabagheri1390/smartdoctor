@@ -1,6 +1,6 @@
 # smartdoctor
 My Al Doctor Project
-# Medical AI Assistant (دستیار هوشمند پزشکی)
+# Medical AI Assistant 
 
 A machine learning-based system that predicts the risk of various diseases (like diabetes, heart conditions, etc.) based on user's health metrics and provides simple recommendations.
 
