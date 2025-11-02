@@ -36,4 +36,7 @@ enthusiast from Iran. Future web developer and ml engineer!
 ## Show program performance :
 https://github.com/parsabagheri1390/smartdoctor/blob/main/Animation.gif)
 
+## my kaggle :
+https://www.kaggle.com/parsabagheri1234
+
 
